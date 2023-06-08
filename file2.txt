@@ -1,0 +1,2 @@
+Version Control Systems are software tools that help developers track and manage changes to their codebase over time
+Git is a distributed version control system used for managing and tracking changes in code.
