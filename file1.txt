@@ -1,3 +1,3 @@
 hii i am joshasree 
-I am workingin kf
-i am practising git 
+i am prsenting on version control tools and git 
+i am working on git branching 
